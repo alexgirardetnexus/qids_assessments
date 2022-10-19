@@ -2,7 +2,7 @@
 
 Congratulations on making it to the second round of the Nexus Equities recruitment process. 
 
-The QIDS team (Quantitative Investments and Data Science) represent a vital part of our firm, and we aim to provide innovative insights in the Industrial Outdoor Storage space and the industrial real estate space as a whole. 
+The QIDS team (Quantitative Investments and Data Science) represent a vital part of our firm, and we aim to provide innovative insights in the Industrial Outdoor Storage space and the industrial real estate sector as a whole. 
 
 The recruitment process at Nexus consists of four stages. 
 
