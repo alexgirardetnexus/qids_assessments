@@ -37,4 +37,4 @@ Additionally you will have to have Python3 and pip3 installed.
 Download the data_science folder locally onto your machine. The assessment folder comes with a sub folder labelled 'data' make sure this folder is in the same folder as the 'data_science_assessment.ipynb file for the assessment to proceed properly. 
 
 Once you have completed your assessement, please save and send the .ipynb file as it is to our QIDS director Alexander Girardet at 
-**alexandergirardet@nexusequities.com** with an email heading of "QIDS Assessment <Your Name>" he will be reviewing your results and will get in touch regarding your next steps.
+**alexandergirardet@nexusequities.com** with an email heading of "QIDS Assessment" he will be reviewing your results and will get in touch regarding your next steps.
